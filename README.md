@@ -19,3 +19,5 @@ This start up the development build using expo. It automatically opens up on any
 ### The image in the app can't be changed
 
 ## View the app on appetizer by clicking the preview link below
+
+### [Preview](https://appetize.io/app/kqd7rmdlmdpro5ann4yl6z66au?device=pixel4&osVersion=12.0&scale=75)
